@@ -1,0 +1,22 @@
+
+Cover Page
+Title: Role of Artificial Intelligence in Education
+
+Introduction:
+Artificial Intelligence is transforming education by enabling personalized learning and improving student engagement. It helps automate administrative tasks and enhances teaching methods.
+
+Key Findings:
+- AI enables personalized learning experiences for students
+- Automates grading and administrative work
+- Improves student performance through data analysis
+
+Challenges:
+- Lack of infrastructure in developing regions
+- Concerns about data privacy
+
+Future Scope:
+- AI-powered virtual tutors
+- Smart classrooms with adaptive learning systems
+
+Conclusion:
+AI has the potential to revolutionize education by making learning more efficient, accessible, and personalized.
